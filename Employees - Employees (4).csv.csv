@@ -1,0 +1,11 @@
+EmployeeID,Name,Position,Department,Salary,HireDate
+1,John Doe,Manager,Management,90000,2019-06-15
+2,Jane Smith,Software Engineer,IT,80000,2018-04-20
+3,Emily Davis,Data Analyst,Data,70000,2020-01-10
+4,Michael Brown,HR Specialist,HR,60000,2021-07-22
+5,Jennifer Wilson,Marketing Director,Marketing,85000,2017-03-18
+6,David Jones,IT Support,IT,55000,2022-02-28
+7,Olivia Taylor,CEO,NULL,120000,2016-10-05
+8,James Johnson,Product Manager,Product,65000,2020-12-01
+9,Charlotte White,Sales Associate,Sales,50000,2021-05-19
+10,Benjamin Harris,Graphic Designer,Design,45000,2019-08-23
